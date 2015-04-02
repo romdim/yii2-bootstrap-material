@@ -16,12 +16,8 @@
       "email": "rom-dim@hotmail.com"
     }
   ],
+  "minimum-stability": "stable",
   "require": {
-    "bower-asset/bootstrap-material-design": "*"
+    "bower-asset/bootstrap-material-design": "dev-master"
   }
-//  "autoload": {
-//    "psr-4": {
-//      "yii\\timeago\\": ""
-//    }
-//  }
 }
