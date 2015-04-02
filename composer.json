@@ -21,5 +21,10 @@
     "yiisoft/yii2": "*",
     "yiisoft/yii2-bootstrap": "*",
     "bower-asset/bootstrap-material-design": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "yii\\bootstrap\\material\\": ""
+    }
   }
 }
