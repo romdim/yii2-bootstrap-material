@@ -18,6 +18,8 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "bower-asset/bootstrap-material-design": "dev-master"
+    "yiisoft/yii2": "*",
+    "yiisoft/yii2-bootstrap": "*",
+    "bower-asset/bootstrap-material-design": "*"
   }
 }
