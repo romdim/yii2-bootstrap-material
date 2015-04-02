@@ -3,3 +3,6 @@
 
 # composer itself is not needed
 composer.phar
+
+# vendor folder
+vendor
