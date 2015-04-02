@@ -6,3 +6,6 @@ composer.phar
 
 # vendor folder
 vendor
+
+# composer lock file
+composer.lock
