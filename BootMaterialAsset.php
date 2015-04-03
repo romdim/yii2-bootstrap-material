@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\bootstrap\material;
+namespace romdim\bootstrap\material;
 
 use yii\web\AssetBundle;
 
