@@ -13,7 +13,8 @@
   "authors": [
     {
       "name": "Romanos Tsouroplis",
-      "email": "rom-dim@hotmail.com"
+      "email": "rom-dim@hotmail.com",
+      "role": "Developer"
     }
   ],
   "minimum-stability": "stable",
