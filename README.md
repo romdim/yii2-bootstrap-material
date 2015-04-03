@@ -14,4 +14,18 @@ Or add
 "romdim/yii2-bootstrap-material": "dev-master",
 ```
 
-to your composer.json
+to the require section of your composer.json file.
+
+## Usage
+
+After installation, just add
+
+```
+    public $depends = [
+        'yii\web\YiiAsset',
+		'romdim\bootstrap\material\BootMaterialCssAsset'
+		'romdim\bootstrap\material\BootMaterialJsAsset'
+    ];
+```
+
+in your AppAsset
