@@ -21,7 +21,7 @@
   "require": {
     "yiisoft/yii2": "*",
     "yiisoft/yii2-bootstrap": "*",
-    "bower-asset/bootstrap-material-design": "0.2.2"
+    "bower-asset/bootstrap-material-design": "0.2.x"
   },
   "autoload": {
     "psr-4": {
