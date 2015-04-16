@@ -17,6 +17,9 @@ Or add
 
 to the require section of your composer.json file.
 
+There is now another branch called material-0-2-2 which uses the FezVrasta's bootstrap material design Version 0.2.2 which seems better to me right now.
+You can use this branch by changing dev-master to dev-material-0-2-2 at the above code. 
+
 ## Usage
 
 After installation, just add
