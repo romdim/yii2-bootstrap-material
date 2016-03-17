@@ -49,7 +49,7 @@ $config = [
                 'romdim\bootstrap\material\BootMaterialCssAsset' => [
                     'css' => [
                         YII_ENV_DEV ? 'css/ripples.css' : 'css/ripples.min.css',
-                        YII_ENV_DEV ? 'css/material-fullpalette.css' : 'css/material-fullpalette.min.css',
+                        YII_ENV_DEV ? 'css/material.css' : 'css/material.min.css',
                     ]
                 ],
                 'romdim\bootstrap\material\BootMaterialJsAsset' => [
