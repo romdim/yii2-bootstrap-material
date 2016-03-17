@@ -27,7 +27,7 @@ After installation, just add
 ```
     public $depends = [
         'yii\web\YiiAsset',
-		'romdim\bootstrap\material\BootMaterialCssAsset'
+		'romdim\bootstrap\material\BootMaterialCssAsset',
 		'romdim\bootstrap\material\BootMaterialJsAsset'
     ];
 ```
