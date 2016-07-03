@@ -66,3 +66,8 @@ $config = [
     ...
 ]
 ```
+
+You should add to the body the following code to have all effects working:
+```
+$(function() { $.material.init(); });
+```
