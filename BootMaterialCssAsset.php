@@ -13,7 +13,7 @@ class BootMaterialCssAsset extends AssetBundle
 {
 	public $sourcePath = '@bower/bootstrap-material-design/dist';
 	public $css = [
-		'css/bootstrap-material-design.css',
+		'css/material.min.css',
 		'css/ripples.min.css'
 	];
 	public $depends = [
