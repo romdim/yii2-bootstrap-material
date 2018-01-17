@@ -17,6 +17,10 @@ Or add
 
 to the require section of your composer.json file.
 
+You need npm and bower installed in order to use this package. Or you could just use a solution for not having those in your project:
+- https://github.com/yidas/yii2-bower-asset (Yii 2 official Composer repository solution for Bower Assets)
+- https://github.com/fxpio/composer-asset-plugin (NPM/Bower Dependency Manager for Composer)
+
 There is now another branch called material-0-2-2 which uses the FezVrasta's bootstrap material design Version 0.2.2 which seems better to me right now.
 You can use this branch by changing dev-master to dev-material-0-2-2 at the above code. 
 
